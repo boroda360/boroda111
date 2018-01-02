@@ -1,2 +1,3 @@
 administrator
+Администратор
 admin
